@@ -1,0 +1,19 @@
+{
+  "name": "new-food-truck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samflipppy/new-food-truck.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samflipppy/new-food-truck/issues"
+  },
+  "homepage": "https://github.com/samflipppy/new-food-truck#readme"
+}
