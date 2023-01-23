@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'food-truck-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C9D9FFA9D4644BA2ABD938AC9F0FF717 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F99434DDD82B4D35BD3548C3303F4F56 }}
           package: .
